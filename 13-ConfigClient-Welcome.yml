@@ -1,2 +1,2 @@
 msg : Welcome Suraj !!
-server.port = 1111
+server.port : 1111
